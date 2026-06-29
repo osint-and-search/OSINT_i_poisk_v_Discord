@@ -62,4 +62,4 @@ Discord активно используют как геймеры, так и п�
 
 Вся информация публикуется «как есть» и направлена на повышение цифровой грамотности и понимания рисков безопасности в интернете.
 
-[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/probiv_i_OSINT_instrumenti)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
